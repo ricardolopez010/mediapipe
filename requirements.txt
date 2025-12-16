@@ -6,3 +6,4 @@ opencv-contrib-python
 protobuf>=3.11.4
 six
 wheel
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
